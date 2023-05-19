@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Laravel | Vue | WordPress
-- 🌱 I’m currently learning Vue
+- - ⚡ Fun fact: Reading Tech Article and Stack Profiling
 
 <!--
 **hassamulhaq/hassamulhaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
