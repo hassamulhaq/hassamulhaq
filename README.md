@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Laravel | Vue | WordPress
+- 🔭 I’m currently working on Laravel | Vue | React | Node
 - ⚡ Fun fact: Reading Tech Article and Stack Profiling
 
 <!--
